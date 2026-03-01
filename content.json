@@ -2,7 +2,7 @@
   "home": {
     "sections": {
       "banner": {
-        "show": false
+        "show": true
       },
       "whyAuthors": {
         "show": true
