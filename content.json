@@ -5,7 +5,7 @@
         "show": true
       },
       "whyAuthors": {
-        "show": false
+        "show": true
       }
     }
   }
