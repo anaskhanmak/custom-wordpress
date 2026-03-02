@@ -1,12 +1,8 @@
 {
   "home": {
     "sections": {
-      "banner": {
-        "show": true
-      },
-      "whyAuthors": {
-        "show": true
-      }
+      "banner": { "show": true },
+      "whyAuthors": { "show": true }
     }
   }
 }
